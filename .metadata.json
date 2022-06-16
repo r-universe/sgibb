@@ -1,0 +1,24 @@
+[
+  {
+    "package": "MALDIquant",
+    "oncran": true
+  },
+  {
+    "package": "MALDIquantForeign",
+    "oncran": true
+  },
+  {
+    "package": "readBrukerFlexData",
+    "oncran": true
+  },
+  {
+    "package": "readMzXmlData",
+    "oncran": true
+  },
+  {
+    "package": "cleaver"
+  },
+  {
+    "package": "topdownr"
+  }
+]
