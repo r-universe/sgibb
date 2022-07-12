@@ -23,13 +23,3 @@
 	url = https://github.com/sgibb/readmzxmldata
 	shallow = true
 	registered = true
-[submodule "cleaver"]
-	path = cleaver
-	url = https://github.com/sgibb/cleaver
-	shallow = true
-	registered = true
-[submodule "topdownr"]
-	path = topdownr
-	url = https://github.com/sgibb/topdownr
-	shallow = true
-	registered = true
