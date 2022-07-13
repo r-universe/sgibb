@@ -14,5 +14,11 @@
   {
     "package": "readMzXmlData",
     "oncran": true
+  },
+  {
+    "package": "cleaver"
+  },
+  {
+    "package": "topdownr"
   }
 ]
