@@ -1,5 +1,13 @@
 [
   {
+    "package": "MALDIquant",
+    "oncran": true
+  },
+  {
+    "package": "MALDIquantForeign",
+    "oncran": true
+  },
+  {
     "package": "readBrukerFlexData",
     "oncran": true
   },
@@ -9,5 +17,8 @@
   },
   {
     "package": "cleaver"
+  },
+  {
+    "package": "topdownr"
   }
 ]
