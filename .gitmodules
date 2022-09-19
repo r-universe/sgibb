@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MALDIquant"]
-	path = MALDIquant
-	url = https://github.com/sgibb/maldiquant
-	shallow = true
-	registered = true
-[submodule "MALDIquantForeign"]
-	path = MALDIquantForeign
-	url = https://github.com/sgibb/maldiquantforeign
-	shallow = true
-	registered = true
 [submodule "readBrukerFlexData"]
 	path = readBrukerFlexData
 	url = https://github.com/sgibb/readbrukerflexdata
@@ -26,10 +16,5 @@
 [submodule "cleaver"]
 	path = cleaver
 	url = https://github.com/sgibb/cleaver
-	shallow = true
-	registered = true
-[submodule "topdownr"]
-	path = topdownr
-	url = https://github.com/sgibb/topdownr
 	shallow = true
 	registered = true
