@@ -12,8 +12,7 @@
     "oncran": true
   },
   {
-    "package": "readMzXmlData",
-    "oncran": true
+    "package": "readMzXmlData"
   },
   {
     "package": "cleaver"
