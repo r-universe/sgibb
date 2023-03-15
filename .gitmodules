@@ -8,14 +8,9 @@
 	url = https://github.com/sgibb/cleaver
 	shallow = true
 	registered = true
-[submodule "readMzXmlData"]
-	path = readMzXmlData
-	url = https://github.com/sgibb/readmzxmldata
-	shallow = true
-	registered = true
-[submodule "topdownr"]
-	path = topdownr
-	url = https://github.com/sgibb/topdownr
+[submodule "MALDIquant"]
+	path = MALDIquant
+	url = https://github.com/sgibb/maldiquant
 	shallow = true
 	registered = true
 [submodule "MALDIquantForeign"]
@@ -28,8 +23,13 @@
 	url = https://github.com/sgibb/readbrukerflexdata
 	shallow = true
 	registered = true
-[submodule "MALDIquant"]
-	path = MALDIquant
-	url = https://github.com/sgibb/maldiquant
+[submodule "readMzXmlData"]
+	path = readMzXmlData
+	url = https://github.com/sgibb/readmzxmldata
+	shallow = true
+	registered = true
+[submodule "topdownr"]
+	path = topdownr
+	url = https://github.com/sgibb/topdownr
 	shallow = true
 	registered = true

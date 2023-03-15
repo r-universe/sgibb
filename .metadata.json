@@ -3,11 +3,8 @@
     "package": "cleaver"
   },
   {
-    "package": "readMzXmlData",
+    "package": "MALDIquant",
     "oncran": true
-  },
-  {
-    "package": "topdownr"
   },
   {
     "package": "MALDIquantForeign",
@@ -18,7 +15,10 @@
     "oncran": true
   },
   {
-    "package": "MALDIquant",
+    "package": "readMzXmlData",
     "oncran": true
+  },
+  {
+    "package": "topdownr"
   }
 ]
