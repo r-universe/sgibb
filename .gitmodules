@@ -8,15 +8,9 @@
 [submodule "MALDIquantForeign"]
 	path = MALDIquantForeign
 	url = https://github.com/sgibb/maldiquantforeign
-[submodule "cleaver"]
-	path = cleaver
-	url = https://github.com/sgibb/cleaver
 [submodule "readBrukerFlexData"]
 	path = readBrukerFlexData
 	url = https://github.com/sgibb/readbrukerflexdata
 [submodule "readMzXmlData"]
 	path = readMzXmlData
 	url = https://github.com/sgibb/readmzxmldata
-[submodule "topdownr"]
-	path = topdownr
-	url = https://github.com/sgibb/topdownr
