@@ -13,4 +13,4 @@
 	url = https://github.com/sgibb/readbrukerflexdata
 [submodule "readMzXmlData"]
 	path = readMzXmlData
-	url = https://github.com/sgibb/readmzxmldata
+	url = https://codeberg.org/sgibb/readmzxmldata
