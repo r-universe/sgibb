@@ -10,7 +10,7 @@
 	url = https://github.com/sgibb/maldiquantforeign
 [submodule "readBrukerFlexData"]
 	path = readBrukerFlexData
-	url = https://github.com/sgibb/readbrukerflexdata
+	url = https://github.com/cran/readBrukerFlexData
 [submodule "readMzXmlData"]
 	path = readMzXmlData
 	url = https://codeberg.org/sgibb/readmzxmldata
