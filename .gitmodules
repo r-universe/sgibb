@@ -4,10 +4,10 @@
 	branch = HEAD
 [submodule "MALDIquant"]
 	path = MALDIquant
-	url = https://github.com/sgibb/maldiquant
+	url = https://github.com/cran/MALDIquant
 [submodule "MALDIquantForeign"]
 	path = MALDIquantForeign
-	url = https://github.com/sgibb/maldiquantforeign
+	url = https://github.com/cran/MALDIquantForeign
 [submodule "readBrukerFlexData"]
 	path = readBrukerFlexData
 	url = https://github.com/cran/readBrukerFlexData
